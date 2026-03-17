@@ -18,3 +18,4 @@ class Asistente extends Model
         'eventoid'
     ];
 }
+
